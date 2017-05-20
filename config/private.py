@@ -1,0 +1,20 @@
+MIN_PRICE = 3500
+MAX_PRICE = 5000
+
+AREAS = ["sfc"]
+
+BOXES = {
+   "mission": [
+        [37.752428, -122.427411],
+        [37.770944, -122.407179],
+    ]
+}
+
+NEIGHBORHOODS = ["mission district", "mission"]
+
+MAX_TRANSIT_DIST = 99
+
+TRANSIT_STATIONS = {}
+
+SLACK_TOKEN = "xoxp-186831235863-186007738882-186812724934-3c8c80c5e0ffabcbfc34a3677c559546"
+
